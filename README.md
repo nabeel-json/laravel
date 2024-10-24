@@ -11,6 +11,9 @@
 git clone https://github.com/nabeel-json/laravel
 ```
 ```
+cd laravel
+```
+```
 composer install
 ```
 ```
