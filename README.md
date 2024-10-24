@@ -10,6 +10,18 @@
 ```
 git clone https://github.com/nabeel-json/laravel
 ```
+```
+composer install
+```
+```
+.env.example --> .env
+```
+```
+php artisan key:generate
+```
+```
+php artisan migrate
+```
 
 ## About Laravel
 
